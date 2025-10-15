@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7971E,FFD200,21D4FD,6457C6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pushkar+Rai!+%F0%9F%91%8B;CS+Undergraduate+%7C+Web+%26+Software+Dev+Enthusiast;Upskilling+in+HTML+CSS+JS+Java+DSA;Building+Real-World+Projects;Lifelong+Learner" alt="Typing SVG"/>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7971E,FFD200,21D4FD,6457C6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pushkar+Rai!+%F0%9F%91%8B;CS+Undergraduate+%7C+Web+%26+Software+Dev+Enthusiast;Upskilling+in+HTML+CSS+JS+Java+DSA;Building+Projects;Lifelong+Learner" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -9,7 +9,6 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/B.Tech%20CSE-JAIN%20University-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Open%20Source%20Lover-21D4FD?style=for-the-badge&logo=github&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Always%20Learning-F7971E?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </p>
 
